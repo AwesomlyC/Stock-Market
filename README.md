@@ -21,13 +21,17 @@ When the client quits, it will disconnect itself from the server and the server 
 
 # Commands
 ```PricesOnDate date```
+
 ```MaxPossible profit/loss file start-date end-date```
+
 ```quit```
 
 # Additional Information about Commands
 
 ```PricesOnDate``` will display the stock prices of both stocks on a given date.
+
 ```MaxPossible``` will calculate the maximum possible profit/loss for a ****single share**** of a given stock in a given time span and display the result to the client.
+
 ```quit``` will disconnect the client from the server and return the user control to the Unix shell
 
 
