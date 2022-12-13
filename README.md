@@ -20,9 +20,9 @@ When a client connects to the server at the designated port number, the client w
 When the client quits, it will disconnect itself from the server and the server will wait for another client to connect. This process repeats indefinitely. 
 
 # Commands
-```PricesOnDate date```
+```PricesOnDate <date>```
 
-```MaxPossible profit/loss file start-date end-date```
+```MaxPossible <profit|loss> <file> <start-date> <end-date>```
 
 ```quit```
 
